@@ -1,3 +1,3 @@
 # PHP
-Feel free to clone or download for academic references.<br>
+Small ERP system for Pharmacy, built using PHP.
 MODELLED FOR MY UNIVERSITY ASSIGNMENT.
