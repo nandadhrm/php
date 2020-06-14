@@ -1,0 +1,8 @@
+<?php
+$srvr="lcalhost"; //SESUAIKAN DENGAN WEBSERVER ANDA
+$db="a121705697"; //SESUAIKAN DENGAN WEBSERVER ANDA
+$usr="root"; //SESUAIKAN DENGAN WEBSERVER ANDA
+$pwd="";//SESUAIKAN DENGAN WEBSERVER ANDA
+
+mysqli_connect($srvr,$usr,$pwd,$db);
+?>
